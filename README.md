@@ -28,9 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links para usar como cartão de visitas online. 
 
-- [Acesse o projeto finalizado, online]()
+Criado para centralizar redes sociais e conteúdos importantes em uma única página.
+
+- [Acesse o projeto finalizado, online](https://nxmoose.github.io/Projeto-Discover/)
 
 ## 🎯 Objetivo
 Praticar estruturação com HTML, estilização com CSS e interatividade com JavaScript.
