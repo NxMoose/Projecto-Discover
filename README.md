@@ -28,14 +28,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online. 
+O DevLinks é um agregador de links responsivo desenvolvido com HTML, CSS e JavaScript, com foco em organização visual e interatividade. 
 
 Criado para centralizar redes sociais e conteúdos importantes em uma única página.
 
-- [Acesse o projeto finalizado, online](https://nxmoose.github.io/Projeto-Discover/)
+## 🌐 Deploy
+
+👉 [Clique aqui para acessar o projeto online](https://nxmoose.github.io/Projeto-Discover/)
 
 ## 🎯 Objetivo
 Praticar estruturação com HTML, estilização com CSS e interatividade com JavaScript.
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei:
+
+- Estruturação semântica com HTML
+- Estilização com CSS
+- Manipulação de DOM com JavaScript
+- Organização de arquivos
+- Versionamento com Git
 
 ## 🔖 Layout
 
